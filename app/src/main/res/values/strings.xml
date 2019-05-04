@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">lat3UTS-AKBIF9-10116413-HARRYAPRIADI</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">SELAMAT DATANG</string>
+    <string name="slide_1_desc">ini adalah aplikasi HARRY APRIADI dengan Nim 10116413</string>
+
+    <string name="slide_2_title">Tentang Aplikasi</string>
+    <string name="slide_2_desc">Aplikasi ini dibuat untuk tujuan Tugas agar memenuhi nilai UTS kelas AKBIF9</string>
+
+    <string name="slide_3_title">Isi Aplikasi</string>
+    <string name="slide_3_desc">Aplikasi ini berisi tentang data/profile pribadi saya untuk kebutuhan nilai UTS AKBIF9</string>
+
+    <string name="title_activity_menu_home">MenuHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
